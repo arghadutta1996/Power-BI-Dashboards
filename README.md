@@ -1,3 +1,3 @@
 # Power-BI-Dashboards
 
-# This dashboard showcase the attrition analysis of a company.
+This dashboard showcase the attrition analysis of a company.
